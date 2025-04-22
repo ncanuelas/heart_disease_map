@@ -1,30 +1,29 @@
+
+
 # Heart Disease Map (U.S. Dashboard 2018–2020)
 
-Visualización interactiva de enfermedades cardíacas en Estados Unidos, basada en datos públicos del periodo 2018–2020. Este proyecto demuestra habilidades en análisis de datos, visualización interactiva y uso de plataformas en la nube para crear dashboards profesionales.
+Interactive visualization of heart disease data across the United States, based on public datasets from 2018 to 2020. This project demonstrates skills in data analysis, interactive visualizations, and cloud-based dashboard development.
 
-## Descripción
+## Description
 
-Este mapa interactivo fue creado utilizando **Microsoft Azure Machine Learning (ML Azure)**, con datos procesados previamente mediante **Python**. Se utilizó limpieza de datos con `pandas` y se subió a la nube para visualizar interactivamente los índices por estado.
+This interactive choropleth map was built using **Microsoft Azure Machine Learning (ML Azure)** and visualized with **Python**. The data was cleaned using `pandas` and then visualized using `plotly.express`. The dashboard allows for dynamic exploration of heart disease rates by state.
 
-## Herramientas y tecnologías utilizadas
+## Tools and Technologies Used
 
-- **Python** (usando entorno local de **Anaconda**)
+- **Python** (developed locally using **Anaconda**)
 - **ML Azure (Microsoft Azure Machine Learning)**
-- Librerías:
-  - `pandas`
-  - `numpy`
-  - `matplotlib` 
-- **Git** y **GitHub** para control de versiones y documentación
+- Libraries:
+ - `pandas`
+ - `plotly.express`
+- **Git** and **GitHub** for version control and documentation
 
 ## Dataset
 
-- **Fuente:** [Data.gov](https://www.data.gov/)
-- **Rango de datos:** 2018 a 2020
-- **Acceso:** Público y gratuito
+- **Source:** [Data.gov](https://www.data.gov/)
+- **Time Range:** 2018 to 2020
+- **Access:** Public and free
 
-## Estructura del proyecto
-
-```
+## Project Structure
 heart_disease_map/
 │
 ├── data/
@@ -34,19 +33,22 @@ heart_disease_map/
 │   └── heart_disease_visualization.ipynb
 │
 ├── images/
-│   └── mapa_interactivo.png
+│   └── interactive_map.png
+│
+├── html/
+│   └── heart_disease_map_clean.html
 │
 ├── README.md
 └── .gitignore
-```
 
-## Cómo ver el proyecto
+## Live Demo
 
-Puedes acceder al repositorio aquí:  
-**[Heart Disease Map en GitHub](https://github.com/ncanuelas/heart_disease_map)**  
-Próximamente será integrado también en el portafolio profesional y perfil de LinkedIn.
+You can view the interactive map here:  
+**[Heart Disease Map - Live Dashboard](https://ncanuelas.github.io/heart_disease_map/html/heart_disease_map_clean.html)**
 
-## Autora
+## Author
 
 **N. Cañuelas**  
-Proyecto desarrollado como parte de portafolio profesional en análisis de datos, dashboards en la nube y visualización interactiva.
+Developed as part of a professional data portfolio, showcasing skills in data analytics, cloud dashboards, and interactive visualization.Puedes acceder al repositorio aquí:  
+**[Heart Disease Map en GitHub](https://github.com/ncanuelas/heart_disease_map)**  
+Próximamente será integrado también en el portafolio profesional y perfil de LinkedIn.
