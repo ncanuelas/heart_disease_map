@@ -13,7 +13,7 @@ Este mapa interactivo fue creado utilizando **Microsoft Azure Machine Learning (
 - Librerías:
   - `pandas`
   - `numpy`
-  - `matplotlib` / `seaborn` (opcional, según visualización base)
+  - `matplotlib` 
 - **Git** y **GitHub** para control de versiones y documentación
 
 ## Dataset
