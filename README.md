@@ -51,4 +51,4 @@ You can view the interactive map here:
 **N. Cañuelas**  
 Developed as part of a professional data portfolio, showcasing skills in data analytics, cloud dashboards, and interactive visualization.Puedes acceder al repositorio aquí:  
 **[Heart Disease Map en GitHub](https://github.com/ncanuelas/heart_disease_map)**  
-Próximamente será integrado también en el portafolio profesional y perfil de LinkedIn.
+
