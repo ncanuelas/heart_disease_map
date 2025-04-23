@@ -44,7 +44,7 @@ heart_disease_map/
 ## Live Demo
 
 You can view the interactive map here:  
-**[Heart Disease Map - Live Dashboard](https://ncanuelas.github.io/heart_disease_map/html/heart_disease_map_clean.html)**
+**[Heart Disease Map - Live Dashboard](https://ncanuelas.github.io/heart_disease_map/heart_disease_map_clean.html)**
 
 ## Author
 
